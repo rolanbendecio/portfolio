@@ -746,8 +746,11 @@ section {
   }
 }
 @media screen and (max-width: 970px) {
+  .contact-content-con .left-contact .contact-info .contact-item {
+    display: inherit;
+  }
   .section {
-    padding: 7rem 6rem;
+    padding: 3rem 3rem;
   }
   header {
     padding: 0;
@@ -761,7 +764,7 @@ section {
   }
   .header-content {
     grid-template-columns: 1fr;
-    padding: 6rem;
+    padding: 2rem;
   }
   .left-header .h-shape {
     display: none;
