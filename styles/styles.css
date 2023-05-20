@@ -811,5 +811,7 @@ section {
   .main-title h2 .bg-text {
     font-size: 3.5rem;
   }
-}
+  .contact-content-con{
+    padding-top:0;
+  }
 }/*# sourceMappingURL=styles.css.map */
