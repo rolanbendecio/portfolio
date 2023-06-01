@@ -94,3 +94,6 @@ h1 {
 h2 {
   margin-top: 0;
 }
+.portfolios .portfolio-item .hover-items h3 {
+    font-size: 1rem;
+}
