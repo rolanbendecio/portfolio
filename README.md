@@ -12,5 +12,4 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Game (Working on it)
 - Contact
 
-<
 
